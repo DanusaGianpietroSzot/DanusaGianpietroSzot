@@ -2,7 +2,7 @@
 
 
 - 🔭  Hoje trabalho como QA 
-- 🌱  Estudando React, NodeJS e .Net para ser dev
+- 🌱  Estudando React, NodeJS e .Net
 - 📫  Contate- me no email: dangiampi@gmail.com
 - ⚡  Curiosidades: vegetariana, mãe da Nina e amante de xadrez
 
