@@ -1,7 +1,7 @@
 ### Oieee, sou a Danusa Gianpietro!!!
 
 
-- 🔭  Hoje trabalho como Analista de Qualidade
+- 🔭  Hoje trabalho como QA 
 - 🌱  Estudando React, NodeJS e .Net para ser dev
 - 📫  Contate- me no email: dangiampi@gmail.com
 - ⚡  Curiosidades: vegetariana, mãe da Nina e amante de xadrez
