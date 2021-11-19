@@ -18,6 +18,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-php" height="30" width="40" src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png">
+   <img align="center" alt="Dan-php" height="30" width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png">
   <img align="center" alt="Dan-nodejs" height="30" width="40" src="https://image.flaticon.com/icons/png/512/919/919825.png">
    <img align="center" alt="Dan-sql" height="30" width="40" src="https://www.svgrepo.com/show/255832/sql.svg">
  
