@@ -1,8 +1,8 @@
 ### Oieee, sou a Danusa Gianpietro!!!
 
 
-- 🔭  Hoje trabalho como QA 
-- 🌱  Estudando React, NodeJS e .Net
+- 🔭  Dev Mobile Jr.
+- 🌱  Estudando Android/ Kotlin
 - 📫  Contate- me no email: dangiampi@gmail.com
 - ⚡  Curiosidades: vegetariana, mãe da Nina e amante de xadrez
 
